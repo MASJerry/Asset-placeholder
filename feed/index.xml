@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Asset Placeholder</title>
+	<atom:link href="/https://github.com/MASJerry/Asset-placeholder.git/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://github.com/MASJerry/Asset-placeholder.git/</link>
+	<description></description>
+	<lastBuildDate>Sat, 26 Nov 2022 10:06:03 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/cropped-car-icon-vector-32x32.png</url>
+	<title>Asset Placeholder</title>
+	<link>/https://github.com/MASJerry/Asset-placeholder.git/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Home</title>
+		<link>/https://github.com/MASJerry/Asset-placeholder.git/home/</link>
+					<comments>/https://github.com/MASJerry/Asset-placeholder.git/home/#comments</comments>
+		
+		<dc:creator><![CDATA[Admin]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 18:53:22 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/https://github.com/MASJerry/Asset-placeholder.git/?p=1</guid>
+
+					<description><![CDATA[Hello Hello, welcome to HomeHere introduction etc Slide 1 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 2 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick HereSlide 3 HeadingLorem ipsum dolor sit amet consectetur adipiscing elit dolorClick Here Previous Next here more stuff here more stuff more writing more writing more writing &#8230;<p class="read-more"> <a class="" href="/https://github.com/MASJerry/Asset-placeholder.git/home/"> <span class="screen-reader-text">Home</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-43688cf8 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="43688cf8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-4bf3752e" data-id="4bf3752e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4f1ee691 elementor-widget elementor-widget-text-editor" data-id="4f1ee691" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:paragraph --></p>
+<p>Hello Hello, welcome to Home<br>Here introduction etc</p>
+<p><!-- /wp:paragraph --></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-2201d4b elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="2201d4b" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.8.2 - 21-11-2022 */
+.elementor-slides .swiper-slide-bg{background-size:cover;background-position:50%;background-repeat:no-repeat;min-width:100%;min-height:100%}.elementor-slides .swiper-slide-inner{background-repeat:no-repeat;background-position:50%;position:absolute;top:0;left:0;bottom:0;right:0;padding:50px;margin:auto}.elementor-slides .swiper-slide-inner,.elementor-slides .swiper-slide-inner:hover{color:#fff;display:-webkit-box;display:-ms-flexbox;display:flex}.elementor-slides .swiper-slide-inner .elementor-background-overlay{position:absolute;z-index:0;top:0;bottom:0;left:0;right:0}.elementor-slides .swiper-slide-inner .elementor-slide-content{position:relative;z-index:1;width:100%}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:35px;font-weight:700;line-height:1}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:17px;line-height:1.4}.elementor-slides .swiper-slide-inner .elementor-slide-description:not(:last-child),.elementor-slides .swiper-slide-inner .elementor-slide-heading:not(:last-child){margin-bottom:30px}.elementor-slides .swiper-slide-inner .elementor-slide-button{border:2px solid #fff;color:#fff;background:transparent;display:inline-block}.elementor-slides .swiper-slide-inner .elementor-slide-button,.elementor-slides .swiper-slide-inner .elementor-slide-button:hover{background:transparent;color:inherit;text-decoration:none}.elementor--v-position-top .swiper-slide-inner{-webkit-box-align:start;-ms-flex-align:start;align-items:flex-start}.elementor--v-position-bottom .swiper-slide-inner{-webkit-box-align:end;-ms-flex-align:end;align-items:flex-end}.elementor--v-position-middle .swiper-slide-inner{-webkit-box-align:center;-ms-flex-align:center;align-items:center}.elementor--h-position-left .swiper-slide-inner{-webkit-box-pack:start;-ms-flex-pack:start;justify-content:flex-start}.elementor--h-position-right .swiper-slide-inner{-webkit-box-pack:end;-ms-flex-pack:end;justify-content:flex-end}.elementor--h-position-center .swiper-slide-inner{-webkit-box-pack:center;-ms-flex-pack:center;justify-content:center}body.rtl .elementor-widget-slides .elementor-swiper-button-next{left:10px;right:auto}body.rtl .elementor-widget-slides .elementor-swiper-button-prev{right:10px;left:auto}.elementor-slides-wrapper div:not(.swiper-slide)>.swiper-slide-inner{display:none}@media (max-width:767px){.elementor-slides .swiper-slide-inner{padding:30px}.elementor-slides .swiper-slide-inner .elementor-slide-heading{font-size:23px;line-height:1;margin-bottom:15px}.elementor-slides .swiper-slide-inner .elementor-slide-description{font-size:13px;line-height:1.4;margin-bottom:15px}}</style>		<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
+				<div class="swiper-wrapper elementor-slides">
+										<div class="elementor-repeater-item-0e04929 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 1 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-5d4f42e swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 2 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div><div class="elementor-repeater-item-697dec7 swiper-slide"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner" ><div class="swiper-slide-contents"><div class="elementor-slide-heading">Slide 3 Heading</div><div class="elementor-slide-description">Lorem ipsum dolor sit amet consectetur adipiscing elit dolor</div><div  class="elementor-button elementor-slide-button elementor-size-sm">Click Here</div></div></div></div>				</div>
+															<div class="swiper-pagination"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next</span>
+						</div>
+												</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-85e4a02 elementor-widget elementor-widget-text-editor" data-id="85e4a02" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>here more stuff</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5aa453f elementor-widget elementor-widget-gallery" data-id="5aa453f" data-element_type="widget" data-settings="{&quot;columns&quot;:3,&quot;aspect_ratio&quot;:&quot;21:9&quot;,&quot;gallery_layout&quot;:&quot;grid&quot;,&quot;columns_tablet&quot;:2,&quot;columns_mobile&quot;:1,&quot;gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;gap_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;link_to&quot;:&quot;file&quot;,&quot;overlay_background&quot;:&quot;yes&quot;,&quot;content_hover_animation&quot;:&quot;fade-in&quot;}" data-widget_type="gallery.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor-pro - v3.8.2 - 21-11-2022 */
+.elementor-gallery__container{min-height:1px}.elementor-gallery-item{position:relative;overflow:hidden;display:block;text-decoration:none;border:solid var(--image-border-width) var(--image-border-color);border-radius:var(--image-border-radius)}.elementor-gallery-item__content,.elementor-gallery-item__overlay{height:100%;width:100%;position:absolute;top:0;left:0}.elementor-gallery-item__overlay{mix-blend-mode:var(--overlay-mix-blend-mode);-webkit-transition-duration:var(--overlay-transition-duration);-o-transition-duration:var(--overlay-transition-duration);transition-duration:var(--overlay-transition-duration);-webkit-transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;transition-property:mix-blend-mode,opacity,background-color,-webkit-transform;-o-transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color;transition-property:mix-blend-mode,transform,opacity,background-color,-webkit-transform}.elementor-gallery-item__image.e-gallery-image{-webkit-transition-duration:var(--image-transition-duration);-o-transition-duration:var(--image-transition-duration);transition-duration:var(--image-transition-duration);-webkit-transition-property:-webkit-filter,-webkit-transform;transition-property:-webkit-filter,-webkit-transform;-o-transition-property:filter,transform;transition-property:filter,transform;transition-property:filter,transform,-webkit-filter,-webkit-transform}.elementor-gallery-item__content{display:-webkit-box;display:-ms-flexbox;display:flex;-webkit-box-orient:vertical;-webkit-box-direction:normal;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:var(--content-justify-content,center);-ms-flex-pack:var(--content-justify-content,center);justify-content:var(--content-justify-content,center);-webkit-box-align:center;-ms-flex-align:center;align-items:center;text-align:var(--content-text-align);padding:var(--content-padding)}.elementor-gallery-item__content>div{-webkit-transition-duration:var(--content-transition-duration);-o-transition-duration:var(--content-transition-duration);transition-duration:var(--content-transition-duration)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(2){-webkit-transition-delay:calc(var(--content-transition-delay) / 3);-o-transition-delay:calc(var(--content-transition-delay) / 3);transition-delay:calc(var(--content-transition-delay) / 3)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(3){-webkit-transition-delay:calc(var(--content-transition-delay) / 3 * 2);-o-transition-delay:calc(var(--content-transition-delay) / 3 * 2);transition-delay:calc(var(--content-transition-delay) / 3 * 2)}.elementor-gallery-item__content.elementor-gallery--sequenced-animation>div:nth-child(4){-webkit-transition-delay:calc(var(--content-transition-delay) / 3 * 3);-o-transition-delay:calc(var(--content-transition-delay) / 3 * 3);transition-delay:calc(var(--content-transition-delay) / 3 * 3)}.elementor-gallery-item__description{color:var(--description-text-color,#fff);width:100%}.elementor-gallery-item__title{color:var(--title-text-color,#fff);font-weight:700;width:100%}.elementor-gallery__titles-container{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:var(--titles-container-justify-content,center);-ms-flex-pack:var(--titles-container-justify-content,center);justify-content:var(--titles-container-justify-content,center);margin-bottom:20px}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item:before{background-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container:not(.e--pointer-framed) .elementor-item.elementor-item-active:before{background-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:before{border-color:var(--galleries-pointer-bg-color-hover);border-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item:after{border-color:var(--galleries-pointer-bg-color-hover)}.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:after,.elementor-gallery__titles-container.e--pointer-framed .elementor-item.elementor-item-active:before{border-color:var(--galleries-pointer-bg-color-active)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:var(--galleries-pointer-border-width);border-right-width:0;border-top-width:0}.elementor-gallery__titles-container.e--pointer-framed.e--animation-draw .elementor-item:after{border-left-width:0;border-bottom-width:0;border-right-width:var(--galleries-pointer-border-width);border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:before{border-left-width:var(--galleries-pointer-border-width);border-bottom-width:0;border-right-width:0;border-top-width:var(--galleries-pointer-border-width)}.elementor-gallery__titles-container.e--pointer-framed.e--animation-corners .elementor-item:after{border-left-width:0;border-bottom-width:var(--galleries-pointer-border-width);border-right-width:var(--galleries-pointer-border-width);border-top-width:0}.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:after,.elementor-gallery__titles-container .e--pointer-double-line .elementor-item:before,.elementor-gallery__titles-container .e--pointer-overline .elementor-item:before,.elementor-gallery__titles-container .e--pointer-underline .elementor-item:after{height:var(--galleries-pointer-border-width)}.elementor-gallery-title{--space-between:10px;cursor:pointer;color:#6d7882;font-weight:500;position:relative;padding:7px 14px;-webkit-transition:all .3s;-o-transition:all .3s;transition:all .3s}.elementor-gallery-title--active{color:#495157}.elementor-gallery-title:not(:last-child){margin-right:var(--space-between)}.elementor-gallery-item__title+.elementor-gallery-item__description{margin-top:var(--description-margin-top)}.e-gallery-item.elementor-gallery-item{-webkit-transition-property:all;-o-transition-property:all;transition-property:all}.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-bottom,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-left,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-right,.e-gallery-item.elementor-animated-content .elementor-animated-item--enter-from-top,.e-gallery-item:hover .elementor-gallery__item-overlay-bg,.e-gallery-item:hover .elementor-gallery__item-overlay-content,.e-gallery-item:hover .elementor-gallery__item-overlay-content__description,.e-gallery-item:hover .elementor-gallery__item-overlay-content__title{opacity:1}a.elementor-item.elementor-gallery-title{color:var(--galleries-title-color-normal)}a.elementor-item.elementor-gallery-title.elementor-item-active,a.elementor-item.elementor-gallery-title.highlighted,a.elementor-item.elementor-gallery-title:focus,a.elementor-item.elementor-gallery-title:hover{color:var(--galleries-title-color-hover)}a.elementor-item.elementor-gallery-title.elementor-item-active{color:var(--gallery-title-color-active)}.e-con-inner>.elementor-widget-gallery,.e-con>.elementor-widget-gallery{width:var(--container-widget-width,100%)}</style>		<div class="elementor-gallery__container">
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/baby.png" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-5aa453f" data-elementor-lightbox-title="baby" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTE2LCJ1cmwiOiJodHRwOlwvXC9hc3NldC1wbGFjZWhvbGRlci5sb2NhbFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcL2JhYnkucG5nIiwic2xpZGVzaG93IjoiYWxsLTVhYTQ1M2YifQ%3D%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/baby.png" data-width="730" data-height="388" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/15784607148009.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-5aa453f" data-elementor-lightbox-title="15784607148009" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTE1LCJ1cmwiOiJodHRwOlwvXC9hc3NldC1wbGFjZWhvbGRlci5sb2NhbFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzE1Nzg0NjA3MTQ4MDA5LmpwZyIsInNsaWRlc2hvdyI6ImFsbC01YWE0NTNmIn0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/15784607148009.jpg" data-width="982" data-height="490" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+							<a class="e-gallery-item elementor-gallery-item elementor-animated-content" href="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/15580210176688.jpg" data-elementor-open-lightbox="yes" data-elementor-lightbox-slideshow="all-5aa453f" data-elementor-lightbox-title="15580210176688" e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJpZCI6MTE0LCJ1cmwiOiJodHRwOlwvXC9hc3NldC1wbGFjZWhvbGRlci5sb2NhbFwvd3AtY29udGVudFwvdXBsb2Fkc1wvMjAyMlwvMTFcLzE1NTgwMjEwMTc2Njg4LmpwZyIsInNsaWRlc2hvdyI6ImFsbC01YWE0NTNmIn0%3D">
+					<div class="e-gallery-image elementor-gallery-item__image" data-thumbnail="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/15580210176688.jpg" data-width="1706" data-height="960" alt="" ></div>
+											<div class="elementor-gallery-item__overlay"></div>
+														</a>
+					</div>
+			</div>
+				</div>
+				<div class="elementor-element elementor-element-fc1c946 elementor-widget elementor-widget-text-editor" data-id="fc1c946" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>here more stuff</p>						</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7ba1c8c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7ba1c8c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-a21dbe2" data-id="a21dbe2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f3c93e elementor-widget elementor-widget-image" data-id="1f3c93e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img decoding="async" width="1920" height="1056" src="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png 1920w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-300x165.png 300w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1024x563.png 1024w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-768x422.png 768w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1536x845.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-8aa0313" data-id="8aa0313" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6f35676 elementor-widget elementor-widget-text-editor" data-id="6f35676" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>more writing</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-918ff69 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="918ff69" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-dd23028" data-id="dd23028" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2aee383 elementor-widget elementor-widget-text-editor" data-id="2aee383" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>more writing</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-7531696" data-id="7531696" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e92a621 elementor-widget elementor-widget-image" data-id="e92a621" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1920" height="1056" src="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png 1920w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-300x165.png 300w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1024x563.png 1024w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-768x422.png 768w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1536x845.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-b1838f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b1838f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-6347bda" data-id="6347bda" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cfc4de3 elementor-widget elementor-widget-image" data-id="cfc4de3" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="1920" height="1056" src="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png" class="attachment-full size-full" alt="" loading="lazy" srcset="/https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552.png 1920w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-300x165.png 300w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1024x563.png 1024w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-768x422.png 768w, /https://github.com/MASJerry/Asset-placeholder.git/wp-content/uploads/2022/11/car-42552-1536x845.png 1536w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-24e76d1" data-id="24e76d1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-b1109ab elementor-widget elementor-widget-text-editor" data-id="b1109ab" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>more writing</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<div class="elementor-element elementor-element-973d21e elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="973d21e" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.8.1 - 13-11-2022 */
+.elementor-widget-video .elementor-widget-container{overflow:hidden;-webkit-transform:translateZ(0);transform:translateZ(0)}.elementor-widget-video .elementor-open-inline .elementor-custom-embed-image-overlay{position:absolute;top:0;left:0;width:100%;height:100%;background-size:cover;background-position:50%}.elementor-widget-video .elementor-custom-embed-image-overlay{cursor:pointer;text-align:center}.elementor-widget-video .elementor-custom-embed-image-overlay:hover .elementor-custom-embed-play i{opacity:1}.elementor-widget-video .elementor-custom-embed-image-overlay img{display:block;width:100%}.elementor-widget-video .e-hosted-video .elementor-video{-o-object-fit:cover;object-fit:cover}.e-con-inner>.elementor-widget-video,.e-con>.elementor-widget-video{width:var(--container-widget-width,100%)}</style>		<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
+			<div class="elementor-video"></div>		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/https://github.com/MASJerry/Asset-placeholder.git/home/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
